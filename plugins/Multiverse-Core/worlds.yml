@@ -1,0 +1,106 @@
+worlds:
+  quest:
+    seed: 1962177577367602997
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: false
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: -70.5
+      y: 73.0
+      z: 200.5
+      pitch: 0.0
+      yaw: 0.0
+      world: quest
+    autoload: true
+    bedrespawn: true
+  quest_creative:
+    seed: -5003094645941613726
+    environment: NORMAL
+    type: FLAT
+    hidden: false
+    alias:
+      name: dungeons
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: false
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: -0.5
+      y: 56.0
+      z: 0.5
+      pitch: 0.0
+      yaw: 0.0
+      world: quest_creative
+    autoload: true
+    bedrespawn: true
+  quest_the_end:
+    seed: 5911596955946031148
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: false
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: false
+    spawn:
+      x: 0.0
+      y: 64.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: quest_the_end
+    autoload: true
+    bedrespawn: true

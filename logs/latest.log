@@ -1,0 +1,568 @@
+[08:14:13] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[08:14:13] [Server thread/INFO]: Loading properties
+[08:14:13] [Server thread/INFO]: Default game type: CREATIVE
+[08:14:13] [Server thread/INFO]: Generating keypair
+[08:14:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:14:13] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[08:14:13] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[08:14:13] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[08:14:13] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v2.4-b523
+[08:14:13] [Server thread/INFO]: Preparing level "quest"
+[08:14:13] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1962177577367602997)
+[08:14:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5911596955946031148)
+[08:14:14] [Thread-7/INFO]: ----- Bukkit Auto Updater -----
+[08:14:14] [Thread-7/INFO]: It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[08:14:14] [Thread-7/INFO]: If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+[08:14:14] [Thread-7/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[08:14:14] [Thread-7/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[08:14:14] [Thread-7/INFO]: ----- ------------------- -----
+[08:14:15] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[08:14:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[08:14:15] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[08:14:15] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[08:14:15] [Server thread/INFO]: [AllPay] - Version 10.0 - using only an item based economy for Multiverse-Core v2.4-b527
+[08:14:15] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'quest' - Env: NORMAL - Type: NORMAL & seed: 1962177577367602997
+[08:14:15] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'quest_creative' - Env: NORMAL - Type: FLAT & seed: -5003094645941613726
+[08:14:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5003094645941613726)
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'quest_the_end' - Env: THE_END - Type: NORMAL & seed: 5911596955946031148
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'snake'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'eagle'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'lizard'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dragon'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'manji'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'moon'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'demon'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'lion'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'death'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'missingLock'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'test1'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'test2'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon1'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon2'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon3'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon4'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon5'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon6'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon7'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon8'...
+[08:14:16] [Server thread/INFO]: [Multiverse-Core] Loading anchor:  'dungeon9'...
+[08:14:16] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v2.4-b523
+[08:14:17] [Server thread/INFO]: [Multiverse-SignPortals] - Version 2.4-b523 Enabled - By Rigby and fernferret
+[08:14:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:14:19] [Server thread/INFO]: Done (5.889s)! For help, type "help" or "?"
+[08:14:47] [User Authenticator #1/INFO]: UUID of player Vlaminck is 609b95044b71497b85fe37d770b391de
+[08:14:47] [Server thread/INFO]: Vlaminck[/127.0.0.1:54179] logged in with entity id 20 at ([quest_creative] -109.46425750778187, 56.0, -6.830695972564445)
+[08:14:55] [Server thread/INFO]: [@: Block placed]
+[08:14:57] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[08:16:49] [Server thread/INFO]: [@: Block placed]
+[08:17:08] [Server thread/INFO]: [@: Block placed]
+[08:17:25] [Server thread/INFO]: [@: Block placed]
+[08:18:01] [Server thread/INFO]: Old Man: Set time to 1000[m
+[08:18:17] [Server thread/INFO]: [@: Block placed]
+[08:18:37] [Server thread/INFO]: [@: Block placed]
+[08:19:25] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[08:19:25] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[08:19:28] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[08:19:28] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[08:19:30] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[08:19:30] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[08:19:54] [Server thread/INFO]: [0;35;1m[@[0;35;1m] win[m
+[08:20:23] [Server thread/INFO]: [@: Block placed]
+[08:20:23] [Server thread/INFO]: [@: Block placed]
+[08:22:05] [Server thread/INFO]: Vlaminck issued server command: //set air
+[08:22:06] [Server thread/INFO]: Vlaminck issued server command: //desel
+[08:22:38] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[08:22:50] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[08:23:08] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[08:23:11] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[08:23:20] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[08:24:52] [Server thread/INFO]: [@: Block placed]
+[08:25:16] [Server thread/INFO]: [@: Block placed]
+[08:25:16] [Server thread/INFO]: [@: Block placed]
+[08:26:20] [Server thread/INFO]: [@: Block placed]
+[08:26:20] [Server thread/INFO]: [@: Block placed]
+[08:26:25] [Server thread/INFO]: Old Man: Set time to 1000[m
+[08:26:47] [Server thread/INFO]: [@: Block placed]
+[08:26:47] [Server thread/INFO]: [@: Block placed]
+[08:28:25] [Server thread/INFO]: [@: Block placed]
+[08:28:25] [Server thread/INFO]: [@: Block placed]
+[08:28:25] [Server thread/INFO]: [@: Block placed]
+[08:28:45] [Server thread/INFO]: [@: Block placed]
+[08:28:53] [Server thread/INFO]: [@: Block placed]
+[08:28:58] [Server thread/INFO]: [@: Block placed]
+[08:28:58] [Server thread/INFO]: [@: Block placed]
+[08:29:12] [Server thread/INFO]: [@: Block placed]
+[08:29:17] [Server thread/INFO]: [@: Block placed]
+[08:29:17] [Server thread/INFO]: [@: Block placed]
+[08:29:17] [Server thread/INFO]: [@: Block placed]
+[08:29:17] [Server thread/INFO]: [@: Block placed]
+[08:29:30] [Server thread/WARN]: Failed to handle packet for /127.0.0.1:54179
+java.lang.ClassCastException: net.minecraft.server.v1_7_R1.TileEntityComparator cannot be cast to net.minecraft.server.v1_7_R1.TileEntityCommand
+	at net.minecraft.server.v1_7_R1.BlockCommand.postPlace(BlockCommand.java:77) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.processBlockPlace(ItemBlock.java:113) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.interactWith(ItemBlock.java:72) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemStack.placeItem(ItemStack.java:78) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.interact(PlayerInteractManager.java:390) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:628) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+[08:29:30] [Server thread/INFO]: Vlaminck lost connection: Internal server error
+[08:29:30] [Server thread/INFO]: Vlaminck left the game.
+[08:29:36] [User Authenticator #2/INFO]: UUID of player Vlaminck is 609b95044b71497b85fe37d770b391de
+[08:29:36] [Server thread/INFO]: Vlaminck[/127.0.0.1:54253] logged in with entity id 24 at ([quest_creative] -99.9615675411064, 56.0, -6.602792775638473)
+[08:29:37] [Server thread/WARN]: Failed to handle packet for /127.0.0.1:54253
+java.lang.ClassCastException: net.minecraft.server.v1_7_R1.TileEntityComparator cannot be cast to net.minecraft.server.v1_7_R1.TileEntityCommand
+	at net.minecraft.server.v1_7_R1.BlockCommand.postPlace(BlockCommand.java:77) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.processBlockPlace(ItemBlock.java:113) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.interactWith(ItemBlock.java:72) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ItemStack.placeItem(ItemStack.java:78) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.interact(PlayerInteractManager.java:390) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:628) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+[08:29:38] [Server thread/INFO]: Vlaminck lost connection: Internal server error
+[08:29:38] [Server thread/INFO]: Vlaminck left the game.
+[08:29:55] [Server thread/INFO]: GameProfile{id='null', name='Vlaminck'} (/127.0.0.1:54259) lost connection: Disconnected
+[08:30:01] [User Authenticator #4/INFO]: UUID of player Vlaminck is 609b95044b71497b85fe37d770b391de
+[08:30:01] [Server thread/INFO]: Vlaminck[/127.0.0.1:54264] logged in with entity id 25 at ([quest_creative] -100.97474075719218, 56.0, -6.627117459110988)
+[08:30:07] [Server thread/ERROR]: Could not pass event BlockBreakEvent to Multiverse-SignPortals v2.4-b523
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:263) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.dig(PlayerInteractManager.java:118) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:535) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.ClassCastException: net.minecraft.server.v1_7_R1.TileEntityComparator cannot be cast to net.minecraft.server.v1_7_R1.TileEntityCommand
+	at org.bukkit.craftbukkit.v1_7_R1.block.CraftCommandBlock.<init>(CraftCommandBlock.java:17) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.block.CraftBlock.getState(CraftBlock.java:276) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.onarandombox.MultiverseSignPortals.listeners.MVSPBlockListener.onBlockBreak(MVSPBlockListener.java:56) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:601) ~[?:1.7.0_05]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 15 more
+[08:30:07] [Server thread/ERROR]: Could not pass event BlockBreakEvent to Multiverse-SignPortals v2.4-b523
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:320) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:486) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:471) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:263) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.dig(PlayerInteractManager.java:118) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:535) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+Caused by: java.lang.ClassCastException: net.minecraft.server.v1_7_R1.TileEntityComparator cannot be cast to net.minecraft.server.v1_7_R1.TileEntityCommand
+	at org.bukkit.craftbukkit.v1_7_R1.block.CraftCommandBlock.<init>(CraftCommandBlock.java:17) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.block.CraftBlock.getState(CraftBlock.java:276) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	at com.onarandombox.MultiverseSignPortals.listeners.MVSPBlockListener.onBlockBreak(MVSPBlockListener.java:56) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:601) ~[?:1.7.0_05]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:318) ~[craftbukkit-1.7.2-R0.3.jar:git-Bukkit-1.7.2-R0.3-b3020jnks]
+	... 15 more
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:30:48] [Server thread/INFO]: [@: Block placed]
+[08:31:16] [Server thread/INFO]: [@: Block placed]
+[08:31:16] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:31:24] [Server thread/INFO]: [@: Block placed]
+[08:32:10] [Server thread/INFO]: [@: Block placed]
+[08:32:10] [Server thread/INFO]: [@: Block placed]
+[08:32:39] [Server thread/INFO]: [@: Block placed]
+[08:32:39] [Server thread/INFO]: [@: Block placed]
+[08:32:39] [Server thread/INFO]: [@: Block placed]
+[08:32:39] [Server thread/INFO]: [@: Block placed]
+[08:32:40] [Server thread/INFO]: [@: Block placed]
+[08:32:40] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:33:20] [Server thread/INFO]: [@: Block placed]
+[08:34:49] [Server thread/INFO]: Old Man: Set time to 1000[m
+[08:35:06] [Server thread/INFO]: [@: Block placed]
+[08:35:06] [Server thread/INFO]: [@: Block placed]
+[08:35:06] [Server thread/INFO]: [@: Block placed]
+[08:35:06] [Server thread/INFO]: [@: Block placed]
+[08:43:13] [Server thread/INFO]: Old Man: Set time to 1000[m
+[08:51:37] [Server thread/INFO]: Old Man: Set time to 1000[m
+[08:56:37] [Server thread/INFO]: Vlaminck issued server command: /set sandstone
+[08:56:44] [Server thread/INFO]: Vlaminck issued server command: //set sandstone
+[08:58:01] [Server thread/INFO]: [@: Block placed]
+[08:58:47] [Server thread/INFO]: [@: Block placed]
+[08:58:57] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:00:01] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:00:33] [Server thread/INFO]: [@: Block placed]
+[09:00:33] [Server thread/INFO]: [@: Block placed]
+[09:00:55] [Server thread/INFO]: [@: Block placed]
+[09:00:55] [Server thread/INFO]: [@: Block placed]
+[09:01:05] [Server thread/INFO]: [@: Block placed]
+[09:01:05] [Server thread/INFO]: [@: Block placed]
+[09:01:52] [Server thread/INFO]: [@: Block placed]
+[09:01:58] [Server thread/INFO]: [@: Block placed]
+[09:01:58] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:02:08] [Server thread/INFO]: [@: Block placed]
+[09:02:13] [Server thread/INFO]: [@: Block placed]
+[09:02:38] [Server thread/INFO]: [@: Block placed]
+[09:02:38] [Server thread/INFO]: [@: Block placed]
+[09:02:38] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:03:53] [Server thread/INFO]: [@: Block placed]
+[09:03:59] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:03:59] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:04:01] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:04:11] [Server thread/INFO]: [@: Block placed]
+[09:06:51] [Server thread/INFO]: [@: Block placed]
+[09:06:59] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:08:25] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:11:36] [Server thread/INFO]: [@: Block placed]
+[09:12:15] [Server thread/INFO]: [@: Block placed]
+[09:12:23] [Server thread/INFO]: [@: Block placed]
+[09:12:41] [Server thread/INFO]: [@: Block placed]
+[09:13:09] [Server thread/INFO]: [@: Block placed]
+[09:13:39] [Server thread/INFO]: [@: Block placed]
+[09:14:14] [Server thread/INFO]: [@: Block placed]
+[09:14:24] [Server thread/INFO]: [@: Block placed]
+[09:14:31] [Server thread/INFO]: [@: Block placed]
+[09:16:49] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:19:11] [Server thread/INFO]: [@: Block placed]
+[09:19:11] [Server thread/INFO]: [@: Block placed]
+[09:20:06] [Server thread/INFO]: [@: Block placed]
+[09:20:11] [Server thread/INFO]: [@: Block placed]
+[09:23:05] [Server thread/INFO]: [@: Block placed]
+[09:23:29] [Server thread/INFO]: [@: Block placed]
+[09:23:30] [Server thread/INFO]: [@: Block placed]
+[09:23:30] [Server thread/INFO]: [@: Block placed]
+[09:23:30] [Server thread/INFO]: [@: Block placed]
+[09:23:30] [Server thread/INFO]: [@: Block placed]
+[09:23:31] [Server thread/INFO]: [@: Block placed]
+[09:23:31] [Server thread/INFO]: [@: Block placed]
+[09:23:31] [Server thread/INFO]: [@: Block placed]
+[09:23:31] [Server thread/INFO]: [@: Block placed]
+[09:23:31] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:32] [Server thread/INFO]: [@: Block placed]
+[09:23:33] [Server thread/INFO]: [@: Block placed]
+[09:23:33] [Server thread/INFO]: [@: Block placed]
+[09:23:33] [Server thread/INFO]: [@: Block placed]
+[09:23:33] [Server thread/INFO]: [@: Block placed]
+[09:23:34] [Server thread/INFO]: [@: Block placed]
+[09:23:34] [Server thread/INFO]: [@: Block placed]
+[09:23:34] [Server thread/INFO]: [@: Block placed]
+[09:23:34] [Server thread/INFO]: [@: Block placed]
+[09:23:34] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:35] [Server thread/INFO]: [@: Block placed]
+[09:23:36] [Server thread/INFO]: [@: Block placed]
+[09:23:36] [Server thread/INFO]: [@: Block placed]
+[09:23:36] [Server thread/INFO]: [@: Block placed]
+[09:23:36] [Server thread/INFO]: [@: Block placed]
+[09:23:40] [Server thread/INFO]: [@: Block placed]
+[09:23:40] [Server thread/INFO]: [@: Block placed]
+[09:23:40] [Server thread/INFO]: [@: Block placed]
+[09:23:41] [Server thread/INFO]: [@: Block placed]
+[09:23:41] [Server thread/INFO]: [@: Block placed]
+[09:23:41] [Server thread/INFO]: [@: Block placed]
+[09:23:41] [Server thread/INFO]: [@: Block placed]
+[09:23:41] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:42] [Server thread/INFO]: [@: Block placed]
+[09:23:43] [Server thread/INFO]: [@: Block placed]
+[09:23:43] [Server thread/INFO]: [@: Block placed]
+[09:23:43] [Server thread/INFO]: [@: Block placed]
+[09:23:43] [Server thread/INFO]: [@: Block placed]
+[09:23:44] [Server thread/INFO]: [@: Block placed]
+[09:23:44] [Server thread/INFO]: [@: Block placed]
+[09:23:44] [Server thread/INFO]: [@: Block placed]
+[09:23:44] [Server thread/INFO]: [@: Block placed]
+[09:23:44] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:45] [Server thread/INFO]: [@: Block placed]
+[09:23:46] [Server thread/INFO]: [@: Block placed]
+[09:23:46] [Server thread/INFO]: [@: Block placed]
+[09:23:46] [Server thread/INFO]: [@: Block placed]
+[09:23:46] [Server thread/INFO]: [@: Block placed]
+[09:23:47] [Server thread/INFO]: [@: Block placed]
+[09:23:47] [Server thread/INFO]: [@: Block placed]
+[09:23:47] [Server thread/INFO]: [@: Block placed]
+[09:23:47] [Server thread/INFO]: [@: Block placed]
+[09:23:47] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:48] [Server thread/INFO]: [@: Block placed]
+[09:23:49] [Server thread/INFO]: [@: Block placed]
+[09:23:49] [Server thread/INFO]: [@: Block placed]
+[09:23:49] [Server thread/INFO]: [@: Block placed]
+[09:23:49] [Server thread/INFO]: [@: Block placed]
+[09:23:50] [Server thread/INFO]: [@: Block placed]
+[09:23:50] [Server thread/INFO]: [@: Block placed]
+[09:23:50] [Server thread/INFO]: [@: Block placed]
+[09:23:50] [Server thread/INFO]: [@: Block placed]
+[09:23:50] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:51] [Server thread/INFO]: [@: Block placed]
+[09:23:52] [Server thread/INFO]: [@: Block placed]
+[09:23:52] [Server thread/INFO]: [@: Block placed]
+[09:23:52] [Server thread/INFO]: [@: Block placed]
+[09:23:52] [Server thread/INFO]: [@: Block placed]
+[09:23:53] [Server thread/INFO]: [@: Block placed]
+[09:23:53] [Server thread/INFO]: [@: Block placed]
+[09:23:53] [Server thread/INFO]: [@: Block placed]
+[09:23:53] [Server thread/INFO]: [@: Block placed]
+[09:23:53] [Server thread/INFO]: [@: Block placed]
+[09:23:54] [Server thread/INFO]: [@: Block placed]
+[09:23:54] [Server thread/INFO]: [@: Block placed]
+[09:23:54] [Server thread/INFO]: [@: Block placed]
+[09:23:54] [Server thread/INFO]: [@: Block placed]
+[09:25:13] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:31:34] [Server thread/INFO]: Vlaminck issued server command: /summon gold_block @p ~ -1 ~
+[09:33:37] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:34:19] [Server thread/INFO]: [@: Block placed]
+[09:35:25] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:35:44] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:35:45] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:35:46] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:35:46] [Server thread/INFO]: [0;35;1m[@[0;35;1m] hi[m
+[09:36:23] [Server thread/INFO]: [@: Block placed]
+[09:37:56] [Server thread/INFO]: [@: Block placed]
+[09:37:57] [Server thread/INFO]: [@: Block placed]
+[09:38:18] [Server thread/INFO]: [@: Block placed]
+[09:39:10] [Server thread/INFO]: [@: Block placed]
+[09:41:00] [Server thread/INFO]: [@: Block placed]
+[09:41:00] [Server thread/INFO]: [@: Block placed]
+[09:41:23] [Server thread/INFO]: [@: Block placed]
+[09:41:23] [Server thread/INFO]: [@: Block placed]
+[09:41:49] [Server thread/INFO]: [@: Block placed]
+[09:42:01] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:42:03] [Server thread/INFO]: [@: Block placed]
+[09:42:48] [Server thread/INFO]: [@: Block placed]
+[09:42:48] [Server thread/INFO]: [@: Block placed]
+[09:42:48] [Server thread/INFO]: [@: Block placed]
+[09:42:48] [Server thread/INFO]: [@: Block placed]
+[09:50:25] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:54:12] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:56:11] [Server thread/INFO]: [@: Block placed]
+[09:58:49] [Server thread/INFO]: Old Man: Set time to 1000[m
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:58:57] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[09:59:27] [Server thread/INFO]: [@: Block placed]
+[10:00:59] [Server thread/INFO]: [@: Block placed]
+[10:00:59] [Server thread/INFO]: [@: Block placed]
+[10:00:59] [Server thread/INFO]: [@: Block placed]
+[10:00:59] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:01:00] [Server thread/INFO]: [@: Block placed]
+[10:02:54] [Server thread/INFO]: [@: Block placed]
+[10:02:54] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:55] [Server thread/INFO]: [@: Block placed]
+[10:02:56] [Server thread/INFO]: [@: Block placed]
+[10:02:56] [Server thread/INFO]: [@: Block placed]
+[10:02:56] [Server thread/INFO]: [@: Block placed]
+[10:02:56] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:06:27] [Server thread/INFO]: [@: Block placed]
+[10:07:13] [Server thread/INFO]: Old Man: Set time to 1000[m
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:01] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:02] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:08:54] [Server thread/INFO]: [@: Block placed]
+[10:13:34] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:34] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:35] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:36] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:37] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:37] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[10:13:37] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:37] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[10:13:41] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:42] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[10:13:55] [Server thread/INFO]: [0;35;1m[@[0;35;1m] foo[m
+[10:13:55] [Server thread/INFO]: [0;35;1m[@[0;35;1m] bar[m
+[10:15:37] [Server thread/INFO]: Old Man: Set time to 1000[m
+[10:15:52] [Server thread/INFO]: [@: Block placed]
+[10:15:52] [Server thread/INFO]: [@: Block placed]
+[10:16:09] [Server thread/INFO]: [@: Block placed]
+[10:16:09] [Server thread/INFO]: [@: Block placed]
+[10:17:11] [Server thread/INFO]: Vlaminck issued server command: //set bedrock
+[10:17:44] [Server thread/INFO]: [@: Block placed]
+[10:17:44] [Server thread/INFO]: [@: Block placed]
+[10:18:10] [Server thread/INFO]: [@: Block placed]
+[10:18:10] [Server thread/INFO]: [@: Block placed]
+[10:18:43] [Server thread/INFO]: Vlaminck issued server command: //copy
+[10:18:52] [Server thread/INFO]: Vlaminck issued server command: //set air
+[10:18:56] [Server thread/INFO]: Vlaminck issued server command: //paste
+[10:20:32] [Server thread/INFO]: Vlaminck issued server command: //set clay
+[10:22:21] [Server thread/INFO]: [@: Block placed]
+[10:22:21] [Server thread/INFO]: [@: Block placed]
+[10:24:01] [Server thread/INFO]: Old Man: Set time to 1000[m
+[10:27:58] [Server thread/INFO]: [@: Block placed]
+[10:27:58] [Server thread/INFO]: [@: Block placed]
+[10:31:40] [Server thread/INFO]: [0;35;1m[@[0;35;1m] 1[m
+[10:32:25] [Server thread/INFO]: Old Man: Set time to 1000[m
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:37:45] [Server thread/INFO]: [@: Block placed]
+[10:38:00] [Server thread/INFO]: Vlaminck lost connection: Disconnected
+[10:38:00] [Server thread/INFO]: Vlaminck left the game.
+[10:38:04] [Thread-4/INFO]: Stopping server
+[10:38:04] [Thread-4/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v2.4-b523
+[10:38:04] [Thread-4/INFO]: [Multiverse-SignPortals] - Disabled
